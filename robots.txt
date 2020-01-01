@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reinaisaey.10ktrees.com/sitemap.xml
